@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1682305793 source:c:\users\唐艺倬\desktop\通软\fourthproject\readbmp.c
+
+1682438779 source:c:\users\唐艺倬\desktop\通软\fourthproject\main.c
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+
