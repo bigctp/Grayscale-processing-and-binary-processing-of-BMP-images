@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1682501785 source:c:\users\唐艺倬\desktop\通软\testproject\main.c
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	<math.h>
+	"bmp.h"
+
+1682352397 source:c:\users\唐艺倬\desktop\通软\testproject\bmp.c
+
+1682352397 c:\users\唐艺倬\desktop\通软\testproject\bmp.h
+
